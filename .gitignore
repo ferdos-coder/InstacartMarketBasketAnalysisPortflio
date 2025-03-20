@@ -1,0 +1,10 @@
+# Ignore all files in raw folder
+/data/raw/*
+# Exception: Keep README.md in raw folder
+!/data/raw/README.md
+
+# Ignore all files in processed folder
+/data/processed/*
+# Exception: Keep README.md in processed folder
+!/data/processed/README.md
+
