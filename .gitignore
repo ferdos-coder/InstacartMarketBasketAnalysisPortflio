@@ -7,4 +7,5 @@
 /data/processed/*
 # Exception: Keep README.md in processed folder
 !/data/processed/README.md
+!/data/processed/merge_data.py
 
