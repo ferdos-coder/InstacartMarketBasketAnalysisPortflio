@@ -9,4 +9,6 @@
 !/data/processed/README.md
 !/data/processed/merge_data.py
 !/data/processed/features_merge_data.py
+!/data/processed/user_features.py
+
 
