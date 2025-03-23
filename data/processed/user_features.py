@@ -3,7 +3,7 @@ import pandas as pd
 merged_data = pd.read_csv(r"E:\data analysis project\InstacartMarketBasketAnalysisPortflio\data\processed\final_merged_data.csv")
 # print(merged_data.head())  # بررسی ۵ رکورد اول
 
-
+#ذخیره ویژگی‌های استخراج‌شده برای هر محصول.
 user_features = merged_data.groupby('user_id').agg(
     total_orders=('order_id', 'nunique'),
     avg_days_between_orders=('days_since_prior_order', 'mean'),
