@@ -41,5 +41,5 @@ This directory contains processed data files for the **Instacart Market Basket A
 
 ## Usage
 
-To use these files in your analysis, simply load them into your Python environment using `pandas`:
+To use these files in your analysis, simply load them into your Python environment using `pandas`
 
