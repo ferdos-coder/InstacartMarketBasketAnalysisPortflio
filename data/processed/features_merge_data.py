@@ -2,7 +2,7 @@ import pandas as pd
 
 
 merged_data = pd.read_csv(r"E:\data analysis project\InstacartMarketBasketAnalysisPortflio\data\processed\final_merged_data.csv")
-print(merged_data.columns)
+# print(merged_data.columns)
 # print(merged_data.head())  # بررسی ۵ رکورد اول
 
 
