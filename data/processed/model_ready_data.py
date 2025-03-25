@@ -1,7 +1,5 @@
 import pandas as pd
 
-import pandas as pd
-
 # بارگیری فایل‌های ویژگی‌ها
 user_features = pd.read_csv(r"E:\data analysis project\InstacartMarketBasketAnalysisPortflio\data\processed\user_features.csv")
 product_features = pd.read_csv(r"E:\data analysis project\InstacartMarketBasketAnalysisPortflio\data\processed\product_features.csv")
