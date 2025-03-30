@@ -15,3 +15,5 @@
 !/data/processed/cleaned_orders.py
 !/data/processed/summary_statistics.py
 !/data/processed/model_ready_data.py
+
+models/
